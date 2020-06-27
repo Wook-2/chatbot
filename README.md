@@ -1,6 +1,6 @@
 # Chat Bot Answering about me
 
-using
+### Using
 * python3.6
   * nltk
   * Flask
@@ -8,7 +8,7 @@ using
 * Docker
 * kubernetes
 
-Helped me a lot
+### Helped me a lot
 * [Kubernetes Guide](https://cloud.google.com/kubernetes-engine/docs)
 * [nltk document](https://www.nltk.org/index.html)
 * [How to create Chatbot in Few minutes using python or flask](https://mc.ai/how-create-chatbot-in-few-minutes-using-python-or-flask/)
