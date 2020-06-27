@@ -1,5 +1,7 @@
 FROM python:3.6-slim
 
+ENV PORT 8080
+
 RUN pip3 install flask
 RUN pip3 install Flask gunicorn
 RUN pip3 install nltk
