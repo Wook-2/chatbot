@@ -7,12 +7,11 @@
 * html
 * Docker
 * kubernetes
-
 ### Helped me a lot
 * [Kubernetes Guide](https://cloud.google.com/kubernetes-engine/docs)
 * [nltk document](https://www.nltk.org/index.html)
 * [How to create Chatbot in Few minutes using python or flask](https://mc.ai/how-create-chatbot-in-few-minutes-using-python-or-flask/)
-* [StackOverflow](https://stackoverflow.com/)
+* [StackOverflow](https://stackoverflow.com/)  
 ---
 # MainPage
 # [If you want to go, Click it](http://34.80.44.54/)
