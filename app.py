@@ -1,4 +1,5 @@
 # import files
+import os
 from flask import Flask, render_template, request
 from nltk.chat.util import Chat, reflections
 
@@ -37,4 +38,4 @@ def get_bot_response():
 
 
 if __name__ == "__main__":
-    app.run()
+    app.run(debug=True, host='0.0.0.0', port=int(os.environ.get('PORT', 8080)))
