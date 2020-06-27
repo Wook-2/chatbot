@@ -14,11 +14,11 @@ Helped me a lot
 * [StackOverflow](https://stackoverflow.com/)
 ---
 MainPage
-[If you want to go, Click it](http://34.80.44.54/)
+# [If you want to go, Click it](http://34.80.44.54/)
 ---
 <a href="#"><img src = "https://github.com/Wook-2/chatbot/blob/master/img/main%20page.PNG" width="600px"></a>
 
-**It can answer these types of question**
+**It can answer these types of question**  
 **You can check it at app.py**
 > Hi  
 > Hello  
