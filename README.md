@@ -13,9 +13,8 @@ Helped me a lot
 * [How to create Chatbot in Few minutes using python or flask](https://mc.ai/how-create-chatbot-in-few-minutes-using-python-or-flask/)
 * [StackOverflow](https://stackoverflow.com/)
 ---
-MainPage
+# MainPage
 # [If you want to go, Click it](http://34.80.44.54/)
----
 <a href="#"><img src = "https://github.com/Wook-2/chatbot/blob/master/img/main%20page.PNG" width="600px"></a>
 
 **It can answer these types of question**  
