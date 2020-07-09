@@ -1,5 +1,10 @@
 # Chat Bot Answering about me
 
+## now you can experience chatbot using Ainize!  
+### just click below button & click *Base URL*  
+[![Run on Ainize](https://ainize.ai/static/images/run_on_ainize_button.svg)](https://ainize.web.app/redirect?git_repo=github.com/Wook-2/chatbot)
+
+
 ### Using
 * python3.6
   * nltk
